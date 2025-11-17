@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+#ifpotatocomputerthenc++
 """
 Global scroll-to-right-click macro
 
