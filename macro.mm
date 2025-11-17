@@ -15,7 +15,7 @@
 
 static std::atomic<bool> g_enabled(true);
 static const int SOFT_CAP = 100; // CPS (higher cap)
-static double g_softMinInterval = 1.0 / SOFT_CAP;
+static double g_softMinInterval = 0.5 / SOFT_CAP;
 static double g_lastClickTime = 0.0;
 
 // Accumulator sensitivity (smaller => more clicks per small scroll)
