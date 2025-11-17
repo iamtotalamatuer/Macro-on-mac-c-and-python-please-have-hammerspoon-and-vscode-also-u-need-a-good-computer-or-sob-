@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+#if u still can't install hammerspoon then u are no disk space, no skill, or using potato (also skill issue)
+#use the c++ version if u are potato
 set -euo pipefail
 
 echo "== Hammerspoon installer helper =="
