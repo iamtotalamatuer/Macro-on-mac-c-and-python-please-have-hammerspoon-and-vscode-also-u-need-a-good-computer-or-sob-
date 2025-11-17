@@ -1,4 +1,7 @@
 # Objective-C++ Scroll→Right-Click Macro
+Hi i dont take any responsibility for this thing failing on another version of macos or python or straight up window. 
+If u get an infinitely reccurring right click then u have skill issue bc windows=funny and I=tried to warn u and attempted to cps cap.
+Also pls be able to run objective c++. If no objective c++ then u skill issue download some software to run it.
 
 This folder contains an Objective-C++ implementation `macro.mm` that listens for global scroll events and synthesizes right-clicks at the mouse pointer.
 
