@@ -1,4 +1,6 @@
 # Scroll-to-Right-Click Macro
+Hi i dont take any responsibility for this thing failing on another version of macos or python or straight up window. 
+If u get an infinitely reccurring right click then u have skill issue bc windows=funny and I=tried to warn u and attempted to cps cap
 
 This script listens for global scroll events (vertical mouse wheel) and issues a right-click at the current pointer position each time a scroll is detected.
 
