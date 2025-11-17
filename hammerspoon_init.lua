@@ -1,6 +1,8 @@
 -- Hammerspoon init: suppress scroll and issue right-click
 -- Toggle: Ctrl+Alt+H
 -- Soft CPS cap toggle: Ctrl+Alt+C (when enabled, limits clicks to softCapCPS)
+-- If u dont have hammerspoon download it
+-- if u can't download it then that's just not my problem
 
 local eventtap = hs.eventtap
 local types = eventtap.event.types
